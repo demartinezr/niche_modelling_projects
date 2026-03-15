@@ -22,7 +22,7 @@ The potential climatic niche represents geographic areas where environmental con
 
 ### Realized habitat
 
-Actual species distributions depend not only on climate but also on habitat structure and landscape conditions. In this workflow, habitat availability is approximated using forest cover, assuming the species is associated with intact montane forest ecosystems.
+Actual species distributions depend not only on climate but also on habitat structure and landscape conditions. In this workflow, habitat availability is approximated using forest cover, assuming the species is associated with montane forest ecosystems.
 
 A threshold of dense canopy cover is used to represent structurally suitable habitat.
 
