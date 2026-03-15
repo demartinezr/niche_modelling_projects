@@ -38,7 +38,7 @@ By intersecting climatic suitability with habitat availability, the analysis dis
 
 ### Conservation Context
 
-Genieridium medinae is an endemic Andean dung beetle inhabiting mid-elevation montane forests. Members of the Scarabaeinae are widely recognized as indicators of ecosystem integrity, making them valuable for assessing landscape condition and biodiversity conservation.
+*Genieridium medinae* is an endemic Andean dung beetle inhabiting mid-elevation montane forests. Members of the Scarabaeinae are widely recognized as indicators of ecosystem integrity, making them valuable for assessing landscape condition and biodiversity conservation.
 
 Understanding the spatial relationship between climatic suitability and habitat availability is particularly important in mountain regions experiencing rapid land-use change and fragmentation.
 
