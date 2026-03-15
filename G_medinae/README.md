@@ -30,11 +30,11 @@ A threshold of dense canopy cover is used to represent structurally suitable hab
 
 By intersecting climatic suitability with habitat availability, the analysis distinguishes between:
 
--Areas that are environmentally suitable but lack adequate habitat
+- Areas that are environmentally suitable but lack adequate habitat
 
--Areas that potentially support viable populations
+- Areas that potentially support viable populations
 
--Regions where further field surveys may be warranted
+- Regions where further field surveys may be warranted
 
 ### Conservation Context
 
